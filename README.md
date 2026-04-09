@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 저는 영남대학교 컴퓨터공학과 23학번 정철희입니다.<br>
 C, c++, python,github에 대해 공부하고있습니다.<br>
+게임개발, 보안, 네트워크에 관심이 있습니다. <br>
 감사합니다.
